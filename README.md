@@ -1,0 +1,1 @@
+Fashion Shop App is a modern and user-friendly e-commerce application that allows users to browse fashion items, place orders, and view their order history. The app is designed to provide the best customer experience, offering the latest trends in fashion, smooth navigation, and easy checkout.
